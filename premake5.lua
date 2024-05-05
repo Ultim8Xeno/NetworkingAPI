@@ -1,4 +1,4 @@
-project "Networking"
+project "NetworkingAPI"
 	kind "StaticLib"
 	language "C++"
 	cppdialect "C++17"
